@@ -2,9 +2,10 @@
 
 ---
 
-A software Engineer specializing in Python, can work with Go-lang and Javascript. As far I understand problem and have solution in my mind technologies are not a problem.
+A Software Engineer specializing in Python, can work with Go-lang and JavaScript. As far I understand problem and have solution in my mind technologies are not a problem.
 
-I love to solve problems and build things, call me crazy but I want to atleast try everything that can I do with a piece of code.
+I love to solve problems and build things, call me crazy but I want to at least try everything that can I do with a piece of code.
+
 
 ---
 
