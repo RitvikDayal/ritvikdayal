@@ -11,6 +11,35 @@ Problem-solver, and code-builder – I aim to conquer every challenge with a pie
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+### 🏆 Trophies
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikdayal&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) [![Ritvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritvikdayal&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=onedark&column=8&margin-w=20&margin-h=5&rank=S,AAA,AA,A)
+
+
+### 📊 Overall Stats
+
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <a href="https://github.com/ritvikdayal/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikdayal&hide_border=true&langs_count=8&layout=compact" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ritvikdayal&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Wandrys's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
