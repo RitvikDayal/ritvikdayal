@@ -51,44 +51,6 @@
 
 ---
 
-### 📌 Notable Projects
-
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Face-Recognition-LBPH&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Face-Recognition-LBPH&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Face-Recognition-LBPH&hide_border=true"/>
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Movie-Recommendation-System&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Movie-Recommendation-System&hide_border=true"/>
-      </picture>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=CDR_Generator&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=CDR_Generator&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=CDR_Generator&hide_border=true"/>
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=E-Commerce-Scrappers&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
-        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=E-Commerce-Scrappers&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=E-Commerce-Scrappers&hide_border=true"/>
-      </picture>
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📊 GitHub Stats
 
