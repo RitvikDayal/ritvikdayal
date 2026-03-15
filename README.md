@@ -53,12 +53,40 @@
 
 ### 📌 Notable Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [Face-Recognition-LBPH](https://github.com/RitvikDayal/Face-Recognition-LBPH) | Real-time face detection & recognition using LBPH algorithm | Python, OpenCV |
-| [Movie-Recommendation-System](https://github.com/RitvikDayal/Movie-Recommendation-System) | Content-based & collaborative filtering recommenders | Python, scikit-learn |
-| [CDR-Generator](https://github.com/RitvikDayal/CDR_Generator) | Synthetic call detail records for telecom data mining & analysis | Python, Jupyter |
-| [E-Commerce-Scrappers](https://github.com/RitvikDayal/E-Commerce-Scrappers) | Web scrapers for Newegg product data | Python |
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Face-Recognition-LBPH&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Face-Recognition-LBPH&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Face-Recognition-LBPH&hide_border=true"/>
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Movie-Recommendation-System&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Movie-Recommendation-System&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=Movie-Recommendation-System&hide_border=true"/>
+      </picture>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=CDR_Generator&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=CDR_Generator&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=CDR_Generator&hide_border=true"/>
+      </picture>
+    </td>
+    <td>
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=E-Commerce-Scrappers&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=E-Commerce-Scrappers&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ritvikdayal&repo=E-Commerce-Scrappers&hide_border=true"/>
+      </picture>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -98,14 +126,6 @@
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ritvikdayal&theme=tokyo-night&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
   <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ritvikdayal&theme=minimal&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritvikdayal&theme=minimal&hide_border=true" width="100%"/>
-</picture>
-
-### 🏆 Trophies
-
-<picture>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=tokyonight&column=8&margin-w=10&margin-h=5&no-bg=true" media="(prefers-color-scheme: dark)"/>
-  <source srcset="https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=flat&column=8&margin-w=10&margin-h=5&no-bg=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=flat&column=8&margin-w=10&margin-h=5&no-bg=true"/>
 </picture>
 
 ### 🐍 Contribution Snake
