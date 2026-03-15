@@ -1,28 +1,30 @@
-<h1 align="center">
-  Hey, I'm Ritvik 
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35">
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=160&section=header&text=Ritvik%20Dayal&fontSize=58&animation=fadeIn&fontColor=ffffff&fontAlignY=45&desc=Backend%20Engineer%20%7C%20Security%20Enthusiast%20%7C%20Data%20Tinkerer&descAlignY=68&descAlign=50&descSize=16" width="100%"/>
 
 <p align="center">
-  <b>Backend Engineer · Security Enthusiast · Data Tinkerer</b><br/>
-  Building reliable systems at <a href="https://doxel.ai">@Doxel-AI</a> · Based in India
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+reliable+backend+systems+%40+Doxel+AI;Exploring+information+security+%26+threat+modeling;Crafting+data+pipelines+%26+ML+experiments;Always+chasing+a+deeper+understanding" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ritvikdayal"><img src="https://img.shields.io/badge/LinkedIn-ritvikdayal-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ritvikr98"><img src="https://img.shields.io/badge/Twitter-ritvikr98-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=ritvikdayal&style=flat&color=grey"/>
+  <a href="https://linkedin.com/in/ritvikdayal">
+    <img src="https://img.shields.io/badge/LinkedIn-ritvikdayal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/ritvikr98">
+    <img src="https://img.shields.io/badge/Twitter-ritvikr98-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ritvikdayal&style=for-the-badge&color=667eea&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
 ### About Me
 
-- 🔭 Currently building at **Doxel AI** — AI-powered construction progress monitoring
-- 🛡️ Pursuing **Information Security** — always chasing a deeper understanding of how things break
-- 🐍 Daily driver: **Python** and **Go** for backend services and tooling
-- 📊 Background in data science — feature engineering, EDA, and recommendation systems
-- 🌱 Exploring: distributed systems, container security, and threat modeling
+- 🏗️ Building AI-powered construction monitoring at **[Doxel AI](https://doxel.ai)**
+- 🛡️ Chasing **information security** — understanding how systems break before attackers do
+- 🐍 Daily stack: **Python + Go** for backend services, **Django** for APIs, **K8s + Docker** for infra
+- 📊 Roots in data science — recommendation systems, computer vision, EDA
+- 🌱 Currently diving into: distributed systems internals, container security, threat modeling
 
 ---
 
@@ -30,17 +32,22 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Frameworks & Tools**
+**Frameworks & Platforms**
 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Data & ML**
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -59,31 +66,62 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <picture>
-        <source srcset="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true&theme=dark&hide_border=true" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
         <source srcset="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
         <img src="https://github-readme-stats.vercel.app/api?username=ritvikdayal&show_icons=true&hide_border=true"/>
       </picture>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikdayal&hide_border=true&langs_count=8&layout=compact" alt="Top Languages"/>
+    <td align="center">
+      <picture>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikdayal&hide_border=true&langs_count=8&layout=compact&theme=tokyonight&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikdayal&hide_border=true&langs_count=8&layout=compact" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikdayal&hide_border=true&langs_count=8&layout=compact"/>
+      </picture>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=ritvikdayal&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+      <picture>
+        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=ritvikdayal&hide_border=true&theme=tokyonight&background=0d1117&date_format=j%20M%5B%20Y%5D" media="(prefers-color-scheme: dark)"/>
+        <source srcset="https://github-readme-streak-stats.herokuapp.com?user=ritvikdayal&hide_border=true&date_format=j%20M%5B%20Y%5D" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=ritvikdayal&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak Stats"/>
+      </picture>
     </td>
   </tr>
 </table>
 
+### 📈 Activity Graph
+
+<picture>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ritvikdayal&theme=tokyo-night&hide_border=true&bg_color=0d1117" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-readme-activity-graph.vercel.app/graph?username=ritvikdayal&theme=minimal&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ritvikdayal&theme=minimal&hide_border=true" width="100%"/>
+</picture>
+
 ### 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=onedark&column=8&margin-w=20&margin-h=5)
+<picture>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=tokyonight&column=8&margin-w=10&margin-h=5&no-bg=true" media="(prefers-color-scheme: dark)"/>
+  <source srcset="https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=flat&column=8&margin-w=10&margin-h=5&no-bg=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ritvikdayal&theme=flat&column=8&margin-w=10&margin-h=5&no-bg=true"/>
+</picture>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
 <p align="center">
-  <i>Open to collaborating on security tooling, backend systems, and data projects.</i><br/>
-  <a href="mailto:ritvikdayal98@gmail.com">Drop me a message</a> · <a href="https://linkedin.com/in/ritvikdayal">Connect on LinkedIn</a>
+  Open to collaborating on <b>security tooling</b>, <b>backend systems</b>, and <b>data projects</b>
+  <br/>
+  <a href="https://linkedin.com/in/ritvikdayal">Let's connect on LinkedIn</a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" width="100%"/>
