@@ -1,0 +1,21 @@
+{
+  "name": "ritvikdayal-profile",
+  "private": true,
+  "type": "module",
+  "description": "Generator for the profile README's SVG assets. Building needs only Node 20+; the dev dependencies are needed only to rebuild the glyph atlas.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "avatar": "node scripts/avatar.mjs",
+    "telemetry:sample": "node scripts/telemetry.mjs --fixture scripts/fixtures/sample.json --now 2026-11-13 --out dist/sample",
+    "test": "node --test scripts/telemetry.test.mjs",
+    "atlas": "node scripts/dev/make-atlas.mjs"
+  },
+  "devDependencies": {
+    "@fontsource/archivo": "5.3.0",
+    "fontkit": "3.0.0",
+    "jetbrains-mono": "1.0.6"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,20 +1,71 @@
-name: Generate Snake Animation
+name: Profile signals
+
+# Regenerates the live parts of the profile README twice a day and publishes them to the `output` branch:
+# the contribution snake, and the activity and language cards drawn by scripts/telemetry.mjs.
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/snake.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-signals
+  cancel-in-progress: false
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v7
+
+      # The cards come first so that dist/ is created by the runner user; the snake action runs in a
+      # container as root and would otherwise leave a directory the next step cannot write to.
+      - name: Signal cards
+        id: cards
+        continue-on-error: true
+        run: node scripts/telemetry.mjs --out dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # If the cards could not be drawn, publish the last good ones again (or the placeholders on a first
+      # run) so the README never shows a broken image. The run is still marked failed at the end.
+      # If `output` exists but cannot be fetched, stop here: publishing placeholders over good cards is worse
+      # than publishing nothing.
+      - name: Keep the last good cards
+        if: steps.cards.outcome == 'failure'
+        run: |
+          mkdir -p dist
+          rc=0
+          git ls-remote --exit-code --heads origin output >/dev/null || rc=$?
+          if [ "$rc" = 0 ]; then
+            git fetch --depth=1 origin output
+          elif [ "$rc" != 2 ]; then
+            exit 1
+          fi
+          for f in signal-activity-dark.svg signal-activity-light.svg signal-languages-dark.svg signal-languages-light.svg; do
+            if [ "$rc" = 0 ] && git cat-file -e "FETCH_HEAD:$f" 2>/dev/null; then
+              git show "FETCH_HEAD:$f" > "dist/$f"
+            else
+              cp "assets/fallback/$f" "dist/$f"
+            fi
+          done
+
+      # The contribution grid in the page's colours: an amber snake over a cyan ramp.
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#b4560a&color_dots=#e8edf1,#bfe3ee,#7fc6dc,#3aa3c2,#0a7d9c
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#ffb26b&color_dots=#161b22,#123a4a,#1b6a84,#3fb2d6,#7fe3ff
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -24,3 +75,9 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Report a failed card run
+        if: steps.cards.outcome == 'failure'
+        run: |
+          echo "::error::Signal cards could not be generated; the previous ones were kept."
+          exit 1
