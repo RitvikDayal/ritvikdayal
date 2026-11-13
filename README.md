@@ -69,6 +69,12 @@ Also [paginate-fastapi](https://github.com/RitvikDayal/paginate-fastapi), a smal
 
 Most of the work above lives in private repositories. This is the public part, redrawn twice a day by a workflow in this repository.
 
+<!-- signal-cards:start -->
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/signal-activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/signal-activity-light.svg"><img src="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/signal-activity-dark.svg" width="410" alt="Public contributions over the last twelve months: the total, a weekly trend line, active days, longest streak and the most in one day."></picture><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/signal-languages-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/signal-languages-light.svg"><img src="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/signal-languages-dark.svg" width="410" alt="Languages across public repositories pushed in the last twelve months, ranked by bytes of code."></picture>
+</p>
+<!-- signal-cards:end -->
+
 <p>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/github-contribution-grid-snake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/RitvikDayal/ritvikdayal/output/github-contribution-grid-snake-dark.svg" width="820" alt="A year of public contributions, drawn as a grid that a snake eats its way through."></picture>
 </p>
